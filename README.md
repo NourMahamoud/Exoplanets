@@ -1,16 +1,38 @@
-# exoplents
+# 🌌 Ex2o – Exoplanet Exploration Platform
 
-A new Flutter project.
+An AI-powered web application developed during NASA Space Apps Challenge to detect and visualize exoplanets.
 
-## Getting Started
+## 🚀 Overview
+Ex2o allows users to:
+- Analyze planetary data using AI
+- Explore exoplanets in an interactive 3D environment
 
-This project is a starting point for a Flutter application.
+## 🧠 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 🔬 Scientific Mode
+- Upload CSV/XLSX datasets
+- AI classification using LightGBM
+- Displays probability & scientific parameters
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🌍 Explore Mode
+- 3D visualization of exoplanets
+- Interactive orbit simulation
+- Real-time data exploration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- Flutter Web
+- FastAPI
+- Python (AI/ML)
+- LightGBM
+- NASA datasets (Kepler, K2, TOI)
+
+## 👥 Team Work
+- Collaborated with AI, Backend, and UI teams
+- Followed hackathon workflow
+
+## 🎯 Impact
+- Makes space science interactive
+- Simplifies complex astronomical data
+
+## 📸 Screenshots
+(Add here)
